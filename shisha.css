@@ -79,32 +79,6 @@ body{
 
 }
 
-/* ==========================
-      ZURÜCK BUTTON
-========================== */
-
-.back-btn{
-
-    display:inline-block;
-
-    margin-bottom:30px;
-
-    padding:12px 25px;
-
-    background:#ff2f92;
-
-    color:white;
-
-    text-decoration:none;
-
-    border-radius:40px;
-
-    font-weight:bold;
-
-    transition:.3s;
-
-}
-
 .back-btn:hover{
 
     background:#00d9ff;
